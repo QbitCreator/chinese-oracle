@@ -1,6 +1,8 @@
 import random 
 import time
 
+texts={"111111":[]}
+
 full=["⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛"*2,"0"]
 broken=["⬛⬛⬛⬛⬛⬛⬛⬛⬛        "*2,"1"]
 
